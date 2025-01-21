@@ -21,3 +21,10 @@
   },
   "description": ""
 }
+
+{
+  "scripts": {
+    "start": "node index.js",
+    "build": "next build"
+  }
+}
